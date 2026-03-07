@@ -7,11 +7,11 @@ Docker is a containerization platform that lets you package an application and e
 ## Architecture Diagram 
 
 <p align="center">
-  <img src="Day01/Images/Docker_arch.png" width="600"/>
+  <img src="Images/Docker_arch.png" width="600"/>
 </p>
 
 ## Docker Workflow
 
 <p align="center">
-  <img src="Day01/Images/Docker_workflow.png" width="600"/>
+  <img src="Images/Docker_workflow.png" width="600"/>
 </p>
